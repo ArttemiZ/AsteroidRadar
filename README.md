@@ -40,7 +40,7 @@ Splash (futuro) → Home → Lista de Asteroides → Detalhe do Asteroide
 `https://api.nasa.gov/neo/rest/v1/feed`
 
 - Chave gratuita em: https://api.nasa.gov
-- Chave de teste: `DEMO_KEY` (30 req/hora)
+- Chave de teste: Trhk9ov5vRQjWZevh3G1SrsnmnOvWmDn0CDHAs29
 
 ---
 
@@ -92,6 +92,6 @@ flutter run
 
 | Nome | RM |
 |---|---|
-| (seu nome aqui) | (seu RM) |
-| (integrante 2) | (RM) |
-| (integrante 3) | (RM) |
+| Inacia dos Santos Silva | RM553401 |
+| Tony Khaled Osman | RM553050 |
+
