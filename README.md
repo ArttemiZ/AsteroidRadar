@@ -88,6 +88,10 @@ flutter run
 
 ---
 
+##  Vídeo Pitch
+
+🎬 https://youtu.be/VqXEzRIPUy0
+
 ## Integrantes
 
 | Nome | RM |
